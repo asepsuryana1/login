@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+input{
+  align-self: start;
+  color: red;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  border-style: inset;
+}
+.form{
+  padding: 5px;
+  border: 1px  black;
+  border-radius: 5px;
+}
+div{
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15);
+}
+button{
+  background-color: white;
+}
